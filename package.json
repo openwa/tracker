@@ -1,0 +1,9 @@
+{
+  "name": "openwa-tracker",
+  "version": "0.0.0",
+  "description": "Piece of JavaScript code for tracking behavior of web page user",
+  "main": "src/index.js",
+  "repository": "git@github.com:openwa/tracker.git",
+  "author": "Eryk Napierała <eryk.piast@gmail.com>",
+  "license": "MIT"
+}
